@@ -71,7 +71,7 @@ namespace C__ders3
             }
 
         }
-        Console.WriteLine("\nXalınız: " + score + "/10");
+        Console.WriteLine("Xalınız: " + score);
 
     
 
